@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul P Shetty</h1>
-<h3 align="center">ISE under graduate</h3>
+<h3 align="center">Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul7shetty&label=Profile%20views&color=0e75b6&style=flat" alt="rahul7shetty" /> </p>
 
-- 🔭 I’m currently working on **DBMS**
+- 🔭 Information science and engineering graduate 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
